@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:pumpkin",
+    "minecraft:sugar",
+    "#minecraft:eggs"
+  ],
+  "pattern": [
+    "",
+    "SPS",
+    "WMW"
+  ],
+  "key": {
+    "S": "minecraft:sugar",
+    "P": "minecraft:pumpkin",
+    "M": "minecraft:milk_bucket",
+    "W": "minecraft:wheat"
+  },
+  "result": {
+    "count": 1,
+    "id": "minecraft:pumpkin_pie"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "A": "minecraft:wheat",
+    "B": "#minecraft:eggs",
+    "C": "minecraft:sugar",
+    "D": "minecraft:water_bucket"
+  },
+  "pattern": [
+    " B ",
+    "ACA",
+    " D "
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:bread"
+  }
+}
