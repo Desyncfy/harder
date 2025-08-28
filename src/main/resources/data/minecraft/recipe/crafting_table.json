@@ -7,7 +7,7 @@
     "i": "minecraft:stick"
   },
   "pattern": [
-    "!@",
+    "i@",
     "##"
   ],
   "result": {
